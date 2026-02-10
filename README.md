@@ -12,7 +12,8 @@
 ## 安装
 
 ```bash
-git clone https://github.com/lijigang/ljg-skill-xray-book.git ~/.claude/skills/ljg-xray-book
+/plugin marketplace add lijigang/ljg-skill-xray-book
+/plugin install ljg-xray-book
 ```
 
 ## 使用
