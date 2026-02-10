@@ -1,0 +1,7 @@
+{
+  "name": "ljg-xray-book",
+  "description": "Deep Book X-Ray — three-round cognitive compression to extract maximum learnable structure from any book. Produces org-mode output.",
+  "author": {
+    "name": "lijigang"
+  }
+}
